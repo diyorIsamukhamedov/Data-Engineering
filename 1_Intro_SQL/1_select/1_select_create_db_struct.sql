@@ -35,12 +35,12 @@ CREATE TABLE data_engineering.station (
 -- ================================================================================
 -- Import data into the "city" table
 COPY data_engineering.city (id, name, country_code, district, population)
-FROM 'D:/_Sciences/_Programming/4_IBM-Data_Engineering/1_Intro_SQL/1_select/city_clean.csv'
+FROM '/absolute/path/to/city_clean.csv'
 WITH (format CSV, HEADER TRUE, DELIMITER ',');
 
 -- Import data into the "station" table
 COPY data_engineering.station (id, city, state, lat_n, long_w)
-FROM 'D:/_Sciences/_Programming/4_IBM-Data_Engineering/1_Intro_SQL/1_select/station_clean.csv'
+FROM '/absolute/path/to/station_clean.csv'
 WITH (format CSV, HEADER TRUE, DELIMITER ',');
 -- ================================================================================
 
