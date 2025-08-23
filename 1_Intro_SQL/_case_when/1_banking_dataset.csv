@@ -1,0 +1,101 @@
+account_id,customer_name,age,account_type,balance,transaction_count,credit_score,branch_city,loan_status,last_transaction_date
+1,Matthew Smith,58,Business,35421.26,17,573,West Kimshire,Approved,2024-09-05
+2,James Mitchell,25,Savings,3037.8,62,463,New Richard,Approved,2025-07-14
+3,Matthew Stephens Jr.,19,Checking,3463.28,94,410,Mcdonaldchester,Pending,2025-02-26
+4,Beverly Hartman,65,Checking,1667.51,72,691,New John,Pending,2025-06-08
+5,David Dixon,35,Checking,16588.38,40,339,Aprilville,Approved,2025-04-18
+6,Amanda Lewis,33,Loan,25756.39,112,781,West Markberg,Approved,2025-06-12
+7,Sherry Love,32,Loan,13996.02,139,527,Port Troyport,Rejected,2024-10-04
+8,Keith Ferguson,26,Business,24322.18,180,504,New Mario,Approved,2025-06-12
+9,Miss Teresa Sloan,65,Checking,27007.77,77,771,Nicholaston,Approved,2025-02-02
+10,Todd Foster,24,Business,36195.29,156,658,South Oscarborough,Pending,2025-05-27
+11,Angela Escobar,61,Savings,44130.92,167,612,West David,Pending,2024-11-20
+12,Rebecca Martinez,65,Checking,28852.96,135,533,Rothville,Rejected,2025-08-04
+13,Rebecca Lara,75,Savings,12225.56,2,528,Reynoldsbury,Approved,2025-03-25
+14,Tony Scott,52,Business,23701.35,170,324,Nixonside,Pending,2025-03-03
+15,Stacey Mcguire,23,Loan,20412.29,141,497,Melanieport,Approved,2024-08-22
+16,Vanessa Berry,55,Business,4806.86,76,708,New Carlmouth,Approved,2025-07-10
+17,Rick Coleman,45,Savings,32983.24,169,636,Shawnborough,Rejected,2024-09-19
+18,Keith Cohen,20,Checking,17779.45,26,585,Solisport,Approved,2024-09-12
+19,Craig Davis,19,Business,20614.0,34,371,West Bailey,Rejected,2025-04-28
+20,Tonya Wells,23,Checking,43205.45,67,585,Port Carolyn,Pending,2025-01-15
+21,Nancy Fernandez,31,Loan,2803.14,29,659,South Nicholasside,Pending,2024-08-25
+22,Thomas Arias,32,Loan,32707.43,27,821,Ramireztown,Pending,2025-07-25
+23,Ashley Morton,50,Loan,32344.37,190,709,Williamsstad,Pending,2025-02-06
+24,Maria Griffith,56,Checking,3124.57,141,849,West Amanda,Rejected,2024-10-29
+25,Jesus Summers,19,Business,36437.86,39,639,Port Blake,Rejected,2025-03-21
+26,Amber Baker,53,Checking,40049.57,69,328,Morenoport,Pending,2024-12-22
+27,Christina Duncan,30,Checking,5552.52,72,418,West Amandaville,Pending,2025-04-10
+28,Lori Carney,63,Business,9660.34,154,567,Jordanmouth,Pending,2024-11-09
+29,Jeff Morrison,59,Loan,26860.66,53,482,Tylershire,Rejected,2025-06-12
+30,Daniel Ramirez,62,Loan,7095.1,183,571,South Daniel,Pending,2024-12-28
+31,Roger Wallace,52,Business,9256.05,87,339,Jenningsborough,Rejected,2024-08-25
+32,Wesley Baker,44,Checking,23185.14,52,411,East Brianhaven,Approved,2024-10-04
+33,Jerry Evans,32,Checking,43736.85,175,744,West Kaitlinland,Pending,2025-01-24
+34,Kristen Lozano,46,Loan,3861.71,162,653,Esparzastad,Rejected,2024-12-05
+35,Toni Brown,55,Savings,40420.31,67,621,Shermanview,Rejected,2024-12-03
+36,Brian Price,35,Savings,42812.75,129,746,Lovestad,Rejected,2025-01-25
+37,Ashley Baldwin,69,Savings,4985.65,125,823,Robinsonton,Approved,2025-01-10
+38,Andrea Baker,73,Checking,32642.03,64,418,Port Angelton,Pending,2024-10-26
+39,Patricia Gray,18,Checking,27075.34,13,694,Frederickhaven,Rejected,2025-01-23
+40,Levi Mcintyre,66,Loan,836.42,23,494,Lake Meganburgh,Pending,2024-10-15
+41,Rick Jones,69,Savings,4753.81,162,560,Andersonburgh,Rejected,2025-06-04
+42,James Harrell,28,Loan,37702.92,108,345,Moranview,Pending,2025-06-22
+43,Terry Curry,62,Loan,11895.34,70,746,Port Lisashire,Approved,2025-06-30
+44,Alyssa Davis,45,Loan,20380.06,11,301,Louishaven,Rejected,2025-01-10
+45,Shane Anthony,39,Business,24119.79,0,832,South Randallmouth,Rejected,2025-05-15
+46,Richard Mullins,35,Savings,43246.05,85,501,Wilkersonland,Approved,2024-12-21
+47,Carmen Duffy,27,Savings,45131.9,197,672,East Jennifertown,Pending,2025-04-25
+48,Steven Reed,31,Business,8315.39,33,741,Tinaburgh,Rejected,2024-09-15
+49,Nicole Silva,66,Business,207.55,163,371,Amandaberg,Approved,2025-01-04
+50,Aaron Allen,39,Savings,19582.05,67,638,Adkinsmouth,Rejected,2025-08-05
+51,Julie Rhodes MD,24,Business,46333.25,41,621,South Annaville,Rejected,2025-02-16
+52,Teresa Martin,23,Loan,39277.95,189,427,Susanmouth,Rejected,2025-07-23
+53,Donna Stokes,42,Checking,14333.94,113,607,Virginiashire,Pending,2024-08-25
+54,Bryan Melton,24,Loan,34859.92,141,819,Palmerville,Approved,2025-04-30
+55,Jessica Stone,40,Savings,36552.22,180,616,Dianeville,Approved,2024-11-20
+56,Blake Ryan,72,Business,39189.74,109,718,Johnbury,Approved,2025-05-30
+57,Jeremy Mosley,40,Checking,33127.38,143,634,New Brookeland,Approved,2025-07-30
+58,Jennifer Rogers,56,Savings,24384.9,2,712,Stevenhaven,Rejected,2025-05-19
+59,Kimberly Jackson,34,Business,9575.9,28,602,Smithside,Pending,2024-11-23
+60,Lisa Jackson,69,Checking,10963.27,19,430,North David,Approved,2024-10-26
+61,Mark Washington,20,Checking,3018.32,176,496,Jacobville,Pending,2025-01-01
+62,Jon Fields,64,Business,36813.29,38,730,Port Catherine,Approved,2024-10-26
+63,Miss Patricia Hayes,47,Checking,3141.78,139,688,New Timothychester,Approved,2024-09-16
+64,Michelle Noble,52,Savings,15748.88,9,478,Kathrynstad,Rejected,2025-06-13
+65,Ronald Johnson,25,Business,2602.1,94,608,Deannaside,Rejected,2025-01-19
+66,Crystal Rosario,42,Loan,23891.75,149,715,East Scottfurt,Rejected,2024-09-20
+67,Christopher Carson,23,Savings,45977.42,141,300,Jenniferview,Pending,2025-05-21
+68,Jenny Rose,53,Savings,26603.19,37,611,Romanberg,Rejected,2024-08-25
+69,Brittany Navarro,36,Business,2938.29,110,593,New Elizabeth,Rejected,2025-01-31
+70,Eric Mason,71,Business,25440.64,32,515,West Rebeccahaven,Approved,2024-10-16
+71,Tony Robinson,58,Checking,42581.99,10,740,Amandaborough,Approved,2025-03-02
+72,Cindy Ortega,57,Savings,3519.21,78,629,Ricardoside,Rejected,2024-10-29
+73,Janice Baker,74,Checking,3491.25,93,776,North Amandachester,Rejected,2025-05-24
+74,Melvin Hamilton,73,Savings,43104.78,10,752,Port Roberthaven,Pending,2025-04-14
+75,Lisa Lawson,41,Savings,20248.4,91,752,Hernandezside,Pending,2025-05-29
+76,Sheri Kelley,54,Loan,47085.65,53,518,North Ashley,Approved,2024-10-19
+77,Karen Snyder,30,Savings,28526.8,174,823,Youngport,Pending,2024-11-08
+78,Jose Flowers,63,Checking,28988.06,63,784,East Stacey,Rejected,2025-05-26
+79,Amanda Roberson,22,Checking,2083.11,170,473,North Cameronport,Rejected,2024-12-04
+80,Anthony Parrish,20,Loan,4190.97,26,386,West Carrie,Approved,2025-01-16
+81,Christina Gray,60,Checking,32902.92,90,590,West Jennifershire,Rejected,2024-12-05
+82,Albert Casey,32,Business,28304.82,199,827,South Judy,Rejected,2024-09-28
+83,Jesus Bradshaw,67,Loan,15886.86,143,643,Shannonberg,Rejected,2024-11-10
+84,Sandra Guzman,36,Checking,13112.21,104,395,Perezton,Rejected,2025-01-03
+85,Jesus Copeland,23,Checking,33519.33,158,540,East Phillipville,Pending,2025-03-03
+86,Jermaine Branch,72,Business,15777.77,191,617,West Angela,Pending,2025-06-27
+87,Elizabeth Berg,32,Loan,13354.16,39,530,North William,Pending,2024-10-21
+88,Jamie Green,73,Business,6630.83,60,503,Andrewport,Pending,2024-11-28
+89,Russell Becker,24,Loan,32310.49,41,450,North Patriciaburgh,Pending,2024-12-04
+90,Leah Patel,42,Loan,22915.51,45,325,Donaldtown,Approved,2024-10-15
+91,Kristin Berry,35,Savings,46458.01,105,347,New Sarahburgh,Rejected,2025-03-12
+92,Alan Rodgers,47,Checking,46793.14,6,550,South Austinhaven,Approved,2025-02-27
+93,Traci Anderson,58,Checking,564.84,45,786,Elliottfurt,Rejected,2025-08-04
+94,Angel Sullivan,71,Savings,31095.85,188,374,South Ericmouth,Rejected,2025-04-14
+95,Jennifer Barber,41,Business,28193.38,85,766,Lake Jeremy,Rejected,2024-10-11
+96,Kelly Keller,28,Savings,5089.06,200,724,East Steveside,Approved,2025-08-13
+97,Autumn Mckinney,41,Checking,26927.96,105,499,Andreaburgh,Rejected,2024-10-12
+98,Stacey Mcfarland,40,Checking,25343.65,171,693,Rodriguezborough,Rejected,2024-11-09
+99,Patricia Combs,31,Savings,6709.58,188,806,East Cheyenneburgh,Pending,2024-12-18
+100,Chad Hamilton,60,Savings,17515.54,63,709,East David,Pending,2024-11-23
