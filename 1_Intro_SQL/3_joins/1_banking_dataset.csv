@@ -1,0 +1,101 @@
+account_id,customer_name,age,account_type,balance,transaction_count,credit_score,branch_city,loan_status,last_transaction_date
+1,Matthew Smith,58,Business,35421.26,17,573,West Kimshire,Approved,2024-09-05
+2,James Mitchell,25,Savings,3037.80,62,463,Eastborough,Rejected,2025-01-14
+3,Sophia Johnson,34,Checking,10458.77,43,698,Northport,Approved,2024-12-02
+4,Emily Davis,46,Checking,2145.00,15,602,West Kimshire,Approved,2024-11-18
+5,Daniel Brown,29,Savings,8745.60,27,655,Southbury,Pending,2025-02-02
+6,Olivia Wilson,37,Business,45218.32,83,721,Eastborough,Approved,2025-01-27
+7,Ethan Taylor,51,Checking,1520.90,8,410,Northport,Rejected,2024-08-19
+8,Isabella Thomas,28,Savings,6578.43,33,690,Southbury,Approved,2024-12-22
+9,Michael Harris,39,Checking,12985.40,51,745,West Kimshire,Approved,2024-10-09
+10,Charlotte Martin,32,Business,57230.10,102,812,Eastborough,Approved,2025-01-05
+11,Alexander Lee,41,Checking,3120.15,29,588,Northport,Pending,2024-09-28
+12,Mia White,27,Savings,985.44,6,470,Southbury,Rejected,2025-01-17
+13,Henry Lewis,55,Business,62145.78,73,730,West Kimshire,Approved,2024-11-20
+14,Amelia Walker,36,Checking,4325.66,21,601,Eastborough,Pending,2025-02-10
+15,Lucas Hall,30,Savings,11450.90,47,680,Northport,Approved,2024-12-15
+16,Evelyn Allen,44,Business,38950.12,54,702,Southbury,Approved,2025-01-22
+17,Jack Young,52,Checking,5240.77,38,589,West Kimshire,Rejected,2024-10-29
+18,Harper King,26,Savings,7490.30,12,650,Eastborough,Approved,2025-02-08
+19,William Scott,47,Business,81500.20,96,760,Northport,Approved,2024-11-05
+20,Abigail Green,33,Checking,2958.00,14,555,Southbury,Pending,2025-01-28
+21,Samuel Adams,61,Savings,14025.50,63,672,West Kimshire,Approved,2024-09-14
+22,Chloe Baker,29,Business,60210.65,80,715,Eastborough,Approved,2025-02-03
+23,David Nelson,42,Checking,7890.40,27,640,Northport,Rejected,2024-12-29
+24,Lily Carter,38,Savings,2150.95,11,498,Southbury,Pending,2025-01-09
+25,Joseph Perez,56,Business,70540.70,91,742,West Kimshire,Approved,2024-10-21
+26,Grace Roberts,24,Savings,4320.18,19,612,Eastborough,Approved,2025-02-14
+27,Daniel Turner,35,Checking,6390.25,23,677,Northport,Approved,2024-12-03
+28,Sofia Phillips,40,Business,45890.55,77,699,Southbury,Approved,2025-01-19
+29,Andrew Campbell,49,Checking,1230.40,9,421,West Kimshire,Rejected,2024-08-25
+30,Ella Parker,31,Savings,9275.32,34,684,Eastborough,Approved,2025-01-13
+31,Christopher Evans,53,Business,83210.99,105,781,Northport,Approved,2024-11-12
+32,Avery Edwards,28,Checking,2450.10,15,568,Southbury,Pending,2025-02-05
+33,Matthew Collins,45,Savings,11560.50,39,665,West Kimshire,Approved,2024-09-30
+34,Zoe Stewart,27,Business,60125.70,85,725,Eastborough,Approved,2025-01-30
+35,Nathan Morris,36,Checking,4875.20,20,609,Northport,Pending,2024-12-20
+36,Aria Rogers,41,Savings,1395.99,8,452,Southbury,Rejected,2025-01-24
+37,Ryan Reed,50,Business,90320.80,112,792,West Kimshire,Approved,2024-10-15
+38,Scarlett Cook,33,Checking,3720.45,26,621,Eastborough,Approved,2025-02-06
+39,Joshua Morgan,48,Savings,10250.78,41,675,Northport,Approved,2024-12-08
+40,Hannah Bell,39,Business,55670.30,92,733,Southbury,Approved,2025-01-16
+41,Anthony Murphy,57,Checking,2125.33,12,507,West Kimshire,Rejected,2024-09-07
+42,Nora Bailey,25,Savings,6840.25,28,662,Eastborough,Approved,2025-01-23
+43,Charles Rivera,60,Business,74015.80,97,746,Northport,Approved,2024-11-25
+44,Lillian Cooper,29,Checking,4520.11,22,603,Southbury,Pending,2025-02-09
+45,Thomas Richardson,40,Savings,9850.40,36,690,West Kimshire,Approved,2024-09-19
+46,Victoria Cox,34,Business,62550.12,82,728,Eastborough,Approved,2025-01-26
+47,Mark Howard,46,Checking,3350.40,17,575,Northport,Pending,2024-12-10
+48,Emily Ward,30,Savings,7125.50,31,671,Southbury,Approved,2025-01-12
+49,Steven Torres,55,Business,80215.70,100,764,West Kimshire,Approved,2024-10-26
+50,Sofia Peterson,27,Checking,2890.22,13,560,Eastborough,Rejected,2025-02-04
+51,Paul Gray,52,Savings,13420.10,44,685,Northport,Approved,2024-12-19
+52,Hazel Ramirez,32,Business,50985.40,76,722,Southbury,Approved,2025-01-21
+53,George James,43,Checking,2590.55,18,580,West Kimshire,Pending,2024-09-16
+54,Stella Watson,26,Savings,4950.33,24,648,Eastborough,Approved,2025-02-11
+55,Peter Brooks,49,Business,88550.20,108,789,Northport,Approved,2024-11-07
+56,Lucy Kelly,28,Checking,3790.77,21,609,Southbury,Approved,2025-01-18
+57,Adam Sanders,37,Savings,8250.50,35,668,West Kimshire,Approved,2024-09-23
+58,Ellie Price,35,Business,46720.15,84,710,Eastborough,Approved,2025-01-29
+59,Jason Bennett,42,Checking,3090.44,25,615,Northport,Pending,2024-12-13
+60,Grace Wood,30,Savings,1825.90,10,495,Southbury,Rejected,2025-01-15
+61,Patrick Barnes,54,Business,94120.70,115,798,West Kimshire,Approved,2024-10-18
+62,Leah Ross,33,Checking,4325.66,19,588,Eastborough,Approved,2025-02-07
+63,Robert Henderson,48,Savings,10975.80,40,672,Northport,Approved,2024-12-06
+64,Madison Coleman,29,Business,55215.30,88,731,Southbury,Approved,2025-01-20
+65,Kevin Jenkins,50,Checking,2650.15,14,571,West Kimshire,Pending,2024-09-21
+66,Victoria Perry,27,Savings,7540.66,32,659,Eastborough,Approved,2025-01-25
+67,Brian Powell,47,Business,81320.10,94,755,Northport,Approved,2024-11-10
+68,Zoe Long,28,Checking,2230.88,16,550,Southbury,Rejected,2025-02-01
+69,Kenneth Patterson,53,Savings,12980.77,46,681,West Kimshire,Approved,2024-09-27
+70,Hannah Hughes,31,Business,63875.40,81,726,Eastborough,Approved,2025-01-31
+71,Edward Flores,44,Checking,4820.30,20,603,Northport,Approved,2024-12-18
+72,Natalie Butler,26,Savings,3150.55,18,642,Southbury,Pending,2025-01-08
+73,Timothy Simmons,56,Business,75920.60,102,770,West Kimshire,Approved,2024-10-24
+74,Audrey Foster,34,Checking,3425.10,22,611,Eastborough,Approved,2025-02-12
+75,Jonathan Gonzales,45,Savings,9950.40,37,688,Northport,Approved,2024-12-01
+76,Brooklyn Bryant,29,Business,58940.20,86,729,Southbury,Approved,2025-01-11
+77,Patrick Alexander,51,Checking,1890.40,11,508,West Kimshire,Rejected,2024-09-11
+78,Hailey Russell,27,Savings,6780.77,29,660,Eastborough,Approved,2025-01-15
+79,Eric Griffin,49,Business,87950.90,109,784,Northport,Approved,2024-11-03
+80,Claire Diaz,32,Checking,4125.22,24,617,Southbury,Approved,2025-02-13
+81,Jeffrey Hayes,60,Savings,14500.66,52,693,West Kimshire,Approved,2024-09-09
+82,Layla Myers,28,Business,62450.12,79,719,Eastborough,Approved,2025-01-06
+83,Dylan Ford,39,Checking,2950.88,19,589,Northport,Pending,2024-12-21
+84,Skylar Hamilton,35,Savings,8950.55,33,667,Southbury,Approved,2025-01-02
+85,Aaron Graham,55,Business,91875.40,113,794,West Kimshire,Approved,2024-10-11
+86,Stella Sullivan,31,Checking,3290.15,17,604,Eastborough,Approved,2025-02-15
+87,Kyle Wallace,48,Savings,10780.66,42,676,Northport,Approved,2024-12-09
+88,Lucy West,26,Business,54890.77,87,735,Southbury,Approved,2025-01-10
+89,Carl Stone,50,Checking,2560.99,13,562,West Kimshire,Pending,2024-09-13
+90,Peyton Warren,30,Savings,7840.12,30,661,Eastborough,Approved,2025-01-18
+91,Raymond Hunter,52,Business,86125.33,104,777,Northport,Approved,2024-11-01
+92,Ellie Hicks,27,Checking,2180.44,12,545,Southbury,Rejected,2025-02-02
+93,Shawn Daniels,46,Savings,11250.50,38,673,West Kimshire,Approved,2024-09-25
+94,Addison Hart,29,Business,59750.77,90,724,Eastborough,Approved,2025-01-09
+95,Gregory Wheeler,54,Checking,3950.33,21,610,Northport,Approved,2024-12-14
+96,Allison Weaver,34,Savings,1740.66,9,482,Southbury,Pending,2025-01-07
+97,Victor Chapman,57,Business,92780.40,116,799,West Kimshire,Approved,2024-10-06
+98,Kayla Bowman,31,Checking,3650.25,20,608,Eastborough,Approved,2025-02-14
+99,Brandon Barrett,47,Savings,10650.99,43,678,Northport,Approved,2024-12-17
+100,Riley Holt,28,Business,56215.70,89,732,Southbury,Approved,2025-01-03
