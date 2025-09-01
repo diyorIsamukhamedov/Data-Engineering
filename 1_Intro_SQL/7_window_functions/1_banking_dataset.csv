@@ -1,0 +1,102 @@
+account_id,customer_name,age,account_type,balance,transaction_count,credit_score,branch_city,loan_status,last_transaction_date
+17,Matthew Robertson,21,Checking,35019.08,184,849,Philadelphia,Approved,2023-01-18
+37,Micheal Brown,68,Checking,98078.6,304,346,Chicago,Approved,2025-06-06
+33,Andrew Jones,51,Savings,71791.95,391,557,San Francisco,Approved,2022-08-11
+47,Matthew Alexander,67,Savings,1949.52,70,700,Miami,Approved,2024-09-03
+21,Scott Davis,67,Savings,89210.68,76,601,Seattle,Rejected,2023-05-07
+28,Kathleen Cole,20,Savings,35580.81,349,773,Atlanta,Rejected,2022-05-07
+5,Billy King,68,Savings,46541.95,166,494,San Francisco,Approved,2024-04-21
+101,Jaime Meza,38,Checking,21219.03,273,680,Boston,Rejected,2025-02-01
+7,Veronica King,54,Business,39520.82,62,600,Los Angeles,Rejected,2024-06-20
+8,Jesse Ramos,31,Savings,89092.97,206,561,Chicago,Pending,2022-10-22
+42,Joseph Mitchell,28,Checking,9177.52,369,697,Dallas,Approved,2023-04-26
+38,Andrew Hunter,39,Checking,10079.2,478,676,Denver,Rejected,2022-06-15
+19,Charles Kelly,46,Business,42120.44,497,590,Houston,Approved,2025-05-12
+32,Anthony Evans,25,Savings,17340.93,83,452,Miami,Pending,2024-02-08
+44,Angela Mitchell,22,Checking,5992.63,127,621,Seattle,Approved,2025-01-23
+27,Tyler Williams,36,Business,74813.28,445,790,New York,Approved,2024-09-12
+39,Amanda Mendez,55,Checking,53241.15,280,520,Los Angeles,Rejected,2023-07-02
+25,Bobby Adams,30,Savings,22058.99,94,531,San Diego,Pending,2022-08-25
+12,Karen Williams,65,Checking,30747.32,143,654,Dallas,Approved,2024-10-18
+41,Rachel Walker,41,Business,69123.44,331,726,Atlanta,Approved,2023-11-20
+15,Robert Clark,47,Business,82732.16,388,733,New York,Approved,2025-04-02
+6,Patricia Jones,29,Checking,5401.74,45,508,Miami,Pending,2022-12-14
+14,Christopher Wright,35,Checking,11047.38,178,648,Chicago,Approved,2024-01-06
+30,Amanda Perez,60,Savings,67230.51,300,588,Houston,Rejected,2023-10-22
+4,Jennifer Lewis,33,Business,45000.99,256,720,Philadelphia,Approved,2025-06-29
+23,George Baker,52,Checking,9082.45,129,532,Boston,Pending,2023-09-14
+36,Laura Johnson,44,Savings,58293.77,278,742,San Francisco,Approved,2025-07-17
+29,Joshua Nelson,27,Checking,1920.6,56,413,Austin,Rejected,2022-04-28
+20,Sarah Garcia,63,Business,97540.31,402,671,Miami,Approved,2024-11-09
+18,Jason Thomas,39,Savings,34182.5,244,605,Atlanta,Pending,2023-01-04
+40,Mary White,70,Checking,14560.28,91,512,Detroit,Rejected,2023-06-11
+24,Daniel Martin,59,Checking,21345.77,374,693,New York,Approved,2025-03-13
+26,Olivia Brown,22,Business,49872.13,112,640,Chicago,Approved,2022-08-16
+10,William Davis,35,Savings,23895.5,300,584,Los Angeles,Rejected,2024-07-25
+2,Emily Wilson,49,Checking,80933.64,207,729,Miami,Approved,2025-01-28
+1,Michael Johnson,72,Savings,5407.3,25,389,Boston,Rejected,2023-02-12
+13,Ashley Thompson,28,Checking,33009.99,213,602,Houston,Pending,2022-11-05
+45,David Hall,34,Business,27560.41,364,675,Dallas,Approved,2023-05-17
+31,Stephanie Clark,61,Checking,43027.88,311,518,San Diego,Rejected,2024-09-30
+9,Kevin Young,42,Business,69322.44,219,712,Philadelphia,Approved,2025-04-14
+3,Samantha Allen,26,Savings,19238.67,66,495,Seattle,Pending,2022-07-20
+11,Thomas Scott,58,Checking,56210.12,285,744,Denver,Approved,2023-10-02
+34,Natalie King,23,Business,38012.19,180,578,Austin,Rejected,2024-03-19
+35,Mark Harris,37,Savings,15470.28,199,634,Detroit,Approved,2022-05-23
+16,Linda Rodriguez,54,Checking,72135.6,421,710,New York,Approved,2025-07-01
+22,Steven Lewis,29,Business,84560.77,356,799,San Francisco,Approved,2024-12-27
+46,Elizabeth Robinson,40,Savings,21092.43,132,607,Philadelphia,Pending,2023-11-25
+48,Paul Walker,50,Checking,34270.59,205,559,Miami,Rejected,2025-02-11
+49,Susan King,61,Business,63590.87,389,682,Chicago,Approved,2022-09-15
+50,James Wright,45,Checking,12980.72,87,528,Dallas,Pending,2024-08-07
+43,Patricia Green,33,Savings,43782.91,178,693,Boston,Approved,2025-06-23
+51,Michael Foster,27,Savings,23019.47,245,633,Seattle,Approved,2022-12-20
+52,Anna Carter,56,Checking,84910.62,299,751,Houston,Approved,2024-03-18
+53,Joseph Murphy,43,Business,42105.19,180,598,Miami,Pending,2023-07-26
+54,Angela Reed,32,Checking,17320.5,98,487,Los Angeles,Rejected,2022-09-11
+55,Kevin Bailey,60,Savings,90518.73,367,715,Chicago,Approved,2025-02-14
+56,Laura Bell,36,Checking,14029.84,254,601,San Francisco,Pending,2024-04-09
+57,Christopher Turner,25,Business,58932.14,121,664,Boston,Rejected,2022-06-04
+58,Amanda Cook,46,Checking,37612.55,319,672,Philadelphia,Approved,2025-06-27
+59,Robert Phillips,53,Savings,28592.08,147,545,Dallas,Pending,2023-02-21
+60,Susan Evans,42,Business,67209.6,388,710,Denver,Approved,2024-07-13
+61,David Campbell,48,Checking,50922.33,240,683,New York,Rejected,2022-10-06
+62,Barbara Sanchez,34,Savings,29810.76,172,589,Austin,Approved,2025-05-19
+63,Matthew Parker,28,Checking,16789.21,88,521,Atlanta,Rejected,2023-08-01
+64,Elizabeth Morris,62,Business,75621.04,401,734,Detroit,Approved,2024-11-22
+65,Steven Rogers,31,Savings,9120.6,53,479,San Diego,Pending,2022-03-27
+66,Emily Butler,40,Checking,23411.28,207,567,Chicago,Approved,2025-01-17
+67,James Ward,55,Business,83215.5,276,699,Miami,Rejected,2024-06-19
+68,Sarah Peterson,29,Savings,51092.19,185,641,Philadelphia,Approved,2023-04-08
+69,William Gray,37,Checking,60211.35,321,720,Houston,Approved,2025-07-07
+70,Jessica Watson,50,Business,28710.48,112,590,Dallas,Pending,2022-05-12
+71,Anthony Brooks,60,Savings,48321.11,299,671,Atlanta,Approved,2024-09-21
+72,Karen Kelly,26,Checking,31209.67,153,553,Los Angeles,Rejected,2023-01-30
+73,Charles James,41,Business,71092.44,415,726,New York,Approved,2025-03-15
+74,Mary Price,33,Checking,20450.17,128,522,Miami,Pending,2022-08-13
+75,Thomas Bennett,63,Savings,94218.52,376,744,San Francisco,Approved,2024-02-17
+76,Linda Cox,35,Checking,57231.69,293,701,Boston,Approved,2025-04-11
+77,Daniel Richardson,54,Business,62345.22,260,688,Chicago,Rejected,2023-05-29
+78,Barbara Howard,39,Savings,19421.87,99,507,Dallas,Pending,2022-11-08
+79,Christopher Ward,45,Checking,71329.14,341,735,Houston,Approved,2024-12-06
+80,Patricia Torres,58,Business,40891.56,209,666,Denver,Approved,2023-09-10
+81,Joshua Ramirez,24,Savings,15327.99,62,471,Seattle,Rejected,2022-07-14
+82,Deborah Cooper,46,Checking,60518.41,288,702,Atlanta,Approved,2025-02-25
+83,Matthew Rivera,64,Business,88910.28,419,752,New York,Approved,2024-06-02
+84,Jennifer Morgan,38,Checking,41289.65,200,622,San Francisco,Pending,2023-12-19
+85,Paul Jenkins,30,Savings,27190.73,132,534,Boston,Rejected,2022-09-05
+86,Amanda Perry,57,Business,73315.84,344,719,Philadelphia,Approved,2025-07-20
+87,Richard Foster,43,Checking,34821.99,177,573,Chicago,Pending,2023-03-23
+88,Michelle Bailey,29,Savings,59217.65,186,649,Miami,Approved,2024-01-27
+89,George Long,52,Business,65209.48,255,689,Dallas,Rejected,2022-06-21
+90,Sandra Ross,34,Checking,21891.5,111,529,Los Angeles,Approved,2025-05-30
+91,Edward Hughes,47,Savings,78215.74,362,738,San Diego,Approved,2023-08-16
+92,Donna Bryant,61,Checking,34120.29,192,581,Seattle,Pending,2022-04-02
+93,Joseph Diaz,40,Business,58941.67,214,673,New York,Approved,2024-07-09
+94,Emily Alexander,28,Savings,16910.36,74,508,Detroit,Rejected,2023-02-18
+95,Jason Hayes,53,Checking,45218.99,237,695,Houston,Approved,2025-01-12
+96,Kimberly Butler,36,Business,38192.77,180,605,Miami,Pending,2024-03-26
+97,Ryan Scott,25,Savings,28391.54,125,563,Philadelphia,Approved,2022-10-30
+98,Stephanie Bell,44,Checking,53281.21,272,684,Dallas,Approved,2025-06-15
+99,Aaron Reed,59,Business,74319.66,398,727,Atlanta,Approved,2023-11-28
+100,Olivia Murphy,31,Savings,21450.88,140,546,San Francisco,Rejected,2022-12-08
